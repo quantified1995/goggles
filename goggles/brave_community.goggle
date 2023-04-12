@@ -1,7 +1,13 @@
-! name: Brave Community
-! description: Rerank results to boost threads from the Brave community forums.
+! name: SpacEy's Goggles
+! description: SpacEy's Favorite Goggles
 ! public: true
-! author: Goggles 101
+! author: SpacEy
 
-$discard
-$site=community.brave.com,boost=2
+ $boost=5,site=ZooX18.com
+ $boost=5,mare$intitle
+ $boost=5,fuck$intitle
+ $boost=5,sex$intitle
+ $boost=5,zoo$inurl
+
+
+
