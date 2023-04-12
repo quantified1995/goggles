@@ -1,0 +1,18 @@
+! description: SpacEy's Boosted Content 
+! public: true 
+! author: SpacEy
+! avatar: #9244e0 
+  
+$discard 
+  
+$boost=10,site=zoox18.com
+$boost=10,mare$intitle
+$boost=10,mare$inurl
+$boost=10,zoophilia$inurl
+$boost=10,fuck$inurl
+$boost=10,sex$inurl
+$boost=5,fuck$intitle
+$boost=5,sex$intitle
+$boost=5,zoo$inurl
+
+$boost=5,site=reddit.com
