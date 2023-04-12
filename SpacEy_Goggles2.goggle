@@ -14,5 +14,4 @@ $boost=10,sex$inurl
 $boost=5,fuck$intitle
 $boost=5,sex$intitle
 $boost=5,zoo$inurl
-
 $boost=5,site=reddit.com
