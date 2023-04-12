@@ -1,0 +1,18 @@
+! name: SpacEy's Goggles #2
+! description: SpacEy's Boosted Content  2
+! public: true 
+! author: SpacEy
+! avatar: #9244e0 
+  
+$discard 
+  
+$boost=3,site=zoox18.com
+$boost=3,mare$intitle
+$boost=3,mare$inurl
+$boost=3,zoophilia$inurl
+$boost=3,fuck$inurl
+$boost=3,sex$inurl
+$boost=3,fuck$intitle
+$boost=3,sex$intitle
+$boost=3,zoo$inurl
+$boost=3,site=reddit.com
